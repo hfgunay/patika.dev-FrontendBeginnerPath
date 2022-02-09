@@ -1,0 +1,28 @@
+body {
+    background-color: whitesmoke;
+    font-family: "Open Sans",sans-serif;
+}
+
+.navbar {
+    position: relative;
+    text-align: center;
+}
+
+h1 {
+    color: black;
+}
+
+.list {
+    list-style: none;
+}
+
+.img {
+    width: 250px;
+    height: 250px;
+    display: block;
+    margin: auto;
+}
+
+.urunler {
+    text-align: center;
+}
