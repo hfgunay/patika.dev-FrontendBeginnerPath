@@ -1,0 +1,39 @@
+body {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  img {
+    padding-left: 40%;
+  }
+  .genel {
+    background-color: #eeeeee;
+    text-align: center;
+  }
+  
+  .arama {
+    margin-top: 0px;
+    width: 300px;
+    height: 15px;
+  }
+  .column-left {
+    float: left;
+    width: 33.333%;
+  
+    background-color: #7ee5da;
+  }
+  .column-right {
+    float: right;
+    width: 33.333%;
+    padding-top: 9px;
+  
+    background-color: #62b3aa;
+  }
+  .column-center {
+    display: inline-block;
+    width: 33.333%;
+    background-color: #70ccc2;
+    padding-top: 13px;
+  }
+  .copyright {
+    padding-left: 45%;
+  }
