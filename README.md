@@ -5,5 +5,5 @@
 
 ### Medium clone with bootstrap
 
-https://media.giphy.com/media/2ort7SnrU5jXhCe2lv/giphy.gif
+![](https://media.giphy.com/media/2ort7SnrU5jXhCe2lv/giphy.gif)
 
