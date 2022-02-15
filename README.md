@@ -5,9 +5,10 @@
 
 ### Asian kitchen menu
 
-![](https://media.giphy.com/media/R7wXmbBWP6UDfD7oyl/giphy.gif)
+<p><img alt="gif" src="https://media.giphy.com/media/AJQ0ZPVeT6A0N57Kls/giphy.gif" width="500" height="320"/></p>
 
 ### Medium clone with bootstrap
 
-![](https://media.giphy.com/media/2ort7SnrU5jXhCe2lv/giphy.gif)
+
+<p><img alt="gif" src="https://media.giphy.com/media/eo4XGG2R1lBn9WTQxb/giphy.gif" width="500" height="320"/></p>
 
