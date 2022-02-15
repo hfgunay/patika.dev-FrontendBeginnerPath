@@ -5,7 +5,7 @@
 
 ### Asian kitchen menu
 
-![] (https://media.giphy.com/media/R7wXmbBWP6UDfD7oyl/giphy.gif)
+![](https://media.giphy.com/media/R7wXmbBWP6UDfD7oyl/giphy.gif)
 
 ### Medium clone with bootstrap
 
